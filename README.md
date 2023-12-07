@@ -1,4 +1,43 @@
 # Java
-This repository is my start regarding java programming.
+- This repository is **my start** regarding **java programming**.
 
 ![java|100](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
+
+Contenidos:
+- [Clase I](#clase-i)
+- [Clase II](#clase-ii-y-iii)
+- [Clase III](#clase-ii-y-iii)
+- [Clase IV](#clase-iv)
+- [Clase V](#clase-v)
+- [Clase VI](#clase-vi)
+- [Clase VII](#clase-vii)
+- [Clase VIII](#clase-viii)
+
+<!-- Usar como Plantilla -->
+
+<!-- - [Unidad I y III](#unidad-iii-y-iv)
+  - [Clase IX](#clase-ix)
+  - [Clase X](#clase-x)
+  - [Clase XI](#clase-xi)
+- [Modelos de Parcial](#modelos-de-parcial)
+  - [Primer Parcial](#primer-parcial)
+  - [Segundo Parcial](#segundo-parcial)
+  - [Código del Profesor 2do Parcial](#código-del-profesor-segundo-parcial)
+  - [Recuperatorio del Primer Parcial](#recuperatorio-del-primer-parcial)
+  - [Recuperatorio del Segundo Parcial](#recuperatorio-del-segundo-parcial)
+  - [Integrador](#examen-integrador)
+  - [Final](#examen-final)
+# Materia Finalizada !
+
+  # Modelos de Parcial
+### Primer Parcial
+> El Código esta comentado
+- [Carpeta del Parcial I](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/tree/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial)
+
+  - [Enunciado](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/tree/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_1)
+  - [Punto I: Código de ejercicio 1 (Suma y Promedio de números) resuelto](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/tree/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_2)
+  - [Punto II Código de ejercicio 2 (Maximos y su sumatoria) resuelto](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/tree/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_2)
+  - [Punto III Código de ejercicio 3 (Sublotes de números) resuelto](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/tree/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_3)
+    - [main](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/blob/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_3/main.py)
+    - [negocio](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/blob/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_3/negocio.py)
+    - [utils](https://github.com/MONZONPUNTOEXE/Introduccion-a-la-Programacion-I/blob/main/Modelos%20de%20Parcial/Modelo%20Primer%20Parcial/Punto_3/utils.py) -->
