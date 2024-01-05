@@ -1,6 +1,7 @@
 # Java
 - This repository is **my start** regarding **java programming**.
 > fuente del curso: [link](https://www.youtube.com/watch?v=coK4jM5wvko&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2)
+> este curso es del 2014 esta vigente salvo la parte de los applets que hoy Enero 2024 esta obsoleto.
 
 ![java|100](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
 
