@@ -1,9 +1,42 @@
 # Java
 - This repository is **my start** regarding **java programming**.
+> fuente del curso: [link](https://www.youtube.com/watch?v=coK4jM5wvko&list=PLU8oAlHdN5BktAXdEVCLUYzvDyqRQJ2lk&index=2)
 
 ![java|100](https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png)
 
 Contenidos:
+
+## Temario Parte 1
+
+- [Introduccion a Java]()
+- Estructuras principales del lenguaje
+- Objetos y clases 
+- Herencia
+- Clases internas e interfaces
+- Programaci6n de gråficos
+- Eventos
+- Componentes Swing
+- Aplicaciones y Applets
+- Tratamientos de errores (excepciones) y depuraciön
+- Programaciön genérica
+- Colecciones
+- Programaci6n multihilo (multithreading)
+
+## Temario Parte 2
+
+- Programacion con archivos
+- XML
+- Programaci6n para redes
+- Programaci6n para BBDD
+- ProgramaciÖn cliente-servidor (objetos distribuidos)
+- Swing avanzado
+- AWT Avanzado
+- JavaBeans
+- Seguridad
+- Programacion internacional
+- Métodos nativos
+- Anotaciones
+
 - [Clase I](#clase-i)
 - [Clase II](#clase-ii-y-iii)
 - [Clase III](#clase-ii-y-iii)
