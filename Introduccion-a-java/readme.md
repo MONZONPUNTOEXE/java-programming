@@ -80,10 +80,12 @@ Pero tenia muchas limitaciones pero los programadores no lo tomaban en serio per
 
 ## Ideas erróneas
 - **JAVA no es una extensión de HTML**
-- **JAVA no tiene nada que ver con JavaScript ()**
-- **Todos los programas de Java se ejecutan en una pagina web (solo los applets)**
-- **JAVA es inseguro**
-- **JAVA es 100% seguro**
+- **JAVA no tiene nada que ver con JavaScript (Solo comparten parte del nombre y sintaxis parecida)**
+- Todos los programas de Java se ejecutan en una pagina web (solo los applets)
+- JAVA es inseguro
+- JAVA es 100% seguro
+
+
 
 
 
