@@ -2,6 +2,6 @@
 
 public class iniciandoEnJava{
     public static void main(String args[]){
-        System.out.printIn("Hola alumnos!");
+        System.out.println("Hola alumnos!");
     }
-    }
+}

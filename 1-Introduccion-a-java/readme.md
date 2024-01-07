@@ -16,6 +16,32 @@
 
 ![Alt text](image-3.png)
 
+> Si esto no funciona o no los lleva a instalar JDK, hacemos los siguiente:
+
+- Vamos a google y escribimos "Visual Studio Code for java"
+
+- Hacemos click en el siguiente link:
+
+![](image-5.png)
+
+- En la documentacion bajamos hasta el "Coding pack", seleccionamos el Pack para Windows (Si tienes Mac seleccionamos para Mac)
+
+![Install for Win o Mac](image-6.png)
+
+- Esperamos que descargue el pack
+
+![Dependence](image-7.png)
+
+- Instalamos
+
+![Install dependences](image-8.png)
+
+![Install dependences](image-9.png)
+
+- Y listo, si aun no instalamos las extensiones las instalamos de nuevo.
+> Si sigue sin funcionar, reiniciamos y volvemos a abrir el VSC
+
+
 
 ## Que es JRE ?
 
