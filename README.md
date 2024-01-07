@@ -9,9 +9,9 @@ Contenidos:
 
 ## Temario Parte 1
 
-- [Introduccion a Java](https://github.com/MONZONPUNTOEXE/java-programming/tree/main/Introduccion-a-java)
-- Estructuras principales del lenguaje
-- Objetos y clases 
+- [Introduccion a Java](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md)
+- [Estructuras principales del lenguaje](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md)
+- Objetos y clases
 - Herencia
 - Clases internas e interfaces
 - Programaci6n de gråficos
