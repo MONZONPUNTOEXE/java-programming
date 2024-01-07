@@ -41,12 +41,6 @@ Contenidos:
 - [Clase I](#clase-i)
 - [Clase II](#clase-ii-y-iii)
 - [Clase III](#clase-ii-y-iii)
-- [Clase IV](#clase-iv)
-- [Clase V](#clase-v)
-- [Clase VI](#clase-vi)
-- [Clase VII](#clase-vii)
-- [Clase VIII](#clase-viii)
-
 <!-- Usar como Plantilla -->
 
 <!-- - [Unidad I y III](#unidad-iii-y-iv)
