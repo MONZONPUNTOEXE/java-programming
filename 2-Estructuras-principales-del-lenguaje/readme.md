@@ -49,7 +49,7 @@ Por ahora debemos saber que:
 
 - Vamos a nuestro Visual Studio Code
 
-Si ya tenemos instalado las extensiones que estan en [introduccio a Java](https://github.com/MONZONPUNTOEXE/java-programming/tree/main/Introduccion-a-java).
+Si ya tenemos instalado las extensiones que estan en [introducción a Java](https://github.com/MONZONPUNTOEXE/java-programming/tree/main/Introduccion-a-java).
 Creamos un nuevo archivo en nuestra carpeta del proyecto en formato **.java**
 
 > Las clases deben empezar con mayusculas

@@ -50,17 +50,17 @@ JRE = Java Runtine Enviroment (Entorno de ejecucion de Java)
 - Por que es necesaria su instalacion ?
     - Porque la principal caracteristica de Java es ser multiplataforma
     - Este caracter de Java de ser multiplataforma implica que el programa escrito en Java debe ser "compilado"
-      para posteriormente se "Interpretado" por la JRE
+      para posteriormente sea "Interpretado" por la JRE
 
 - Que es compilar ?
-El codigo fuente es en el cual le damos instrucciones a la maquina para que haga determinadas cosas, este lenguaje es entendido por los humanos (programadores)
-Es importante saber que las maquinas no entienden Codigo Fuente, solo codigo binario
+El codigo fuente es en el cual le damos instrucciones a la maquina para que haga determinadas cosas, este lenguaje es entendido por los humanos (programadores).
+Es importante saber que las maquinas no entienden Codigo Fuente, solo codigo binario.
 El Compilador lo que hace es convertir el codigo fuente en codigo maquina (binario), de ahi la maquina entiende ese lenguaje.
 
-- Por ejemplo: estamos programando en Pascal, el compilador una de las alternativas es crear un ejecutable en .exe pero solo se podria ejecutar en Windows
+- Por ejemplo: Estamos programando en Pascal. El compilador, una de las alternativas es crear un ejecutable en **.exe** pero solo se podria ejecutar en Windows
     Para que se ejecute en otros sistemas operativos deberiamos crear una version del ejecutable en Linux, Windows, Mac
 
-- Solucion de Java
+- Solucion de Java <br>
 Con Java lo que hacemos es crear un codigo fuente con extension .java y al compilar, compila un fichero de extesion .class que no llega a ser codigo maquina, ni tampoco codigo fuente pero es un itermediario llamado "Bytecodes"
 A este fichero de Bytecodes se le aplica la maquina virtual de Java (JRE)
 
@@ -77,23 +77,23 @@ A este fichero de Bytecodes se le aplica la maquina virtual de Java (JRE)
 
 ## Muy breve historia
 
-Java nace en el a año 1991 por Sun Microsystems, con el fin de poder utilizar en todos los electrodomesticos, para ello debia a ser Codigo pequeño, compacto y neutro respecto a la arquitectura para que se pueda adaptar a los dispositivos futuros.
+Java nace en el año 1991 por Sun Microsystems, con el fin de poder utilizar en todos los electrodomesticos, para ello debia a ser Codigo pequeño, compacto y neutro respecto a la arquitectura para que se pueda adaptar a los dispositivos futuros.
 Sin embargo fue un fracaso porque no la pudieron vender de 1992 a 1994 y quedo en el Stand-by
 
 ## Alternativa
 
 En 1996 se les ocurrio que se podia comerciar el lenguaje JAVA por internet o enfocarlo a internet ya que Java se podia adaptar al mismo.
 Decidieron crear un navegador llamado HotJava,  el cual era ligero y podia ejecutar codigo en su interior. 
-Pero tenia muchas limitaciones pero los programadores no lo tomaban en serio pero con el tiempo crearon paquete o clases el cual impulso su uso.
+Pero tenia muchas limitaciones y los programadores no lo tomaban en serio pero con el tiempo crearon paquete o clases el cual impulso su uso.
 
 ## Características de JAVA
 
 - **Sencillo:** En el sentido se quito caracteristicas que tenian otros lenguajes (aritmética de punteros, ficheros de encabezados etc) y sobre todo es más ligero
 
 - **Orientado a Objetos:** Es el lenguje más orientado a objetos que existe
-- **Distribuido:** Buen tratamiento de redes, buena programacion para internet
+- **Distribuido:** Buen tratamiento de redes, buena programación para internet
 - **Seguro:** Como fue pensado para programar en red se hizo seguro
-    > No tanto, todos los lenguajes tienen vulnerabilidades, lo cual debemos actulizar la maquina virtual y saber sobre cyber seguridad
+    > No tanto, todos los lenguajes tienen vulnerabilidades, lo cual debemos actulizar la maquina virtual y sobre todo saber cyber seguridad
 - Es seguro porque no permite:
         - Leer o escribir sin permiso
         - Desbordar la pila de ejecución
@@ -107,10 +107,11 @@ Pero tenia muchas limitaciones pero los programadores no lo tomaban en serio per
 ## Ideas erróneas
 - **JAVA no es una extensión de HTML**
 - **JAVA no tiene nada que ver con JavaScript (Solo comparten parte del nombre y sintaxis parecida)**
-- Todos los programas de Java se ejecutan en una pagina web (solo los applets)
-- JAVA es inseguro
-- JAVA es 100% seguro
+- **Todos los programas de Java se ejecutan en una pagina web (solo los applets)**
+- **JAVA es inseguro**
+- **JAVA es 100% seguro**
 
+<< [Capitulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capitulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
 
 
 
