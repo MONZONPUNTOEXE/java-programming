@@ -110,6 +110,9 @@ Pero tenia muchas limitaciones y los programadores no lo tomaban en serio pero c
 - **Todos los programas de Java se ejecutan en una pagina web (solo los applets)**
 - **JAVA es inseguro**
 - **JAVA es 100% seguro**
+<br>
+<br>
+<br>
 
 << [Capitulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capitulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
 
