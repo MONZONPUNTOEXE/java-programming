@@ -60,4 +60,4 @@ Creamos un nuevo archivo en nuestra carpeta del proyecto en formato **.java**
 <br>
 <br>
 
-<< [Capitulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md) | [Siguiente Capitulo](.) >>
+<< [Capítulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md) | [Siguiente Capítulo](.) >>

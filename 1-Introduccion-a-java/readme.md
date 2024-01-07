@@ -114,7 +114,7 @@ Pero tenia muchas limitaciones y los programadores no lo tomaban en serio pero c
 <br>
 <br>
 
-<< [Capitulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capitulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
+<< [Capítulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capítulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
 
 
 
