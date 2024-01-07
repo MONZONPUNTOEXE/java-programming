@@ -3,7 +3,7 @@
 ## Entornos de Desarrollo usaremos Visual Studio Code
 
 - El que vamos a utilizar es Visual Estudio Code como IDE
-- Para su instalacion debemos de instalar las siguientes extenciones
+- Para su instalacion debemos de instalar las siguientes extensiones
 
 # Extensiones
 ![Alt text](image-1.png)
@@ -49,6 +49,9 @@ A este fichero de Bytecodes se le aplica la maquina virtual de Java (JRE)
 
 # Introduccion a Java
 
+# Muy breve historia
+
 Java nace en el a año 1991 por Sun Microsystems, con el fin de poder utilizar en todos los electrodomesticos, para ello debia a ser Codigo pequeño, compacto y neutro respecto a la arquitectura para que se pueda adaptar a los dispositivos futuros.
 Sin embargo fue un fracaso porque no la pudieron vender de 1992 a 1994 y quedo en el Stand-by
+
 
