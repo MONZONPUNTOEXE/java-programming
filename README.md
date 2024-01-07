@@ -38,9 +38,6 @@ Contenidos:
 - Métodos nativos
 - Anotaciones
 
-- [Clase I](#clase-i)
-- [Clase II](#clase-ii-y-iii)
-- [Clase III](#clase-ii-y-iii)
 <!-- Usar como Plantilla -->
 
 <!-- - [Unidad I y III](#unidad-iii-y-iv)

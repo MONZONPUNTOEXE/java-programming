@@ -49,9 +49,42 @@ A este fichero de Bytecodes se le aplica la maquina virtual de Java (JRE)
 
 # Introduccion a Java
 
-# Muy breve historia
+## Muy breve historia
 
 Java nace en el a año 1991 por Sun Microsystems, con el fin de poder utilizar en todos los electrodomesticos, para ello debia a ser Codigo pequeño, compacto y neutro respecto a la arquitectura para que se pueda adaptar a los dispositivos futuros.
 Sin embargo fue un fracaso porque no la pudieron vender de 1992 a 1994 y quedo en el Stand-by
+
+## Alternativa
+
+En 1996 se les ocurrio que se podia comerciar el lenguaje JAVA por internet o enfocarlo a internet ya que Java se podia adaptar al mismo.
+Decidieron crear un navegador llamado HotJava,  el cual era ligero y podia ejecutar codigo en su interior. 
+Pero tenia muchas limitaciones pero los programadores no lo tomaban en serio pero con el tiempo crearon paquete o clases el cual impulso su uso.
+
+## Características de JAVA
+
+- **Sencillo:** En el sentido se quito caracteristicas que tenian otros lenguajes (aritmética de punteros, ficheros de encabezados etc) y sobre todo es más ligero
+
+- **Orientado a Objetos:** Es el lenguje más orientado a objetos que existe
+- **Distribuido:** Buen tratamiento de redes, buena programacion para internet
+- **Seguro:** Como fue pensado para programar en red se hizo seguro
+    > No tanto, todos los lenguajes tienen vulnerabilidades, lo cual debemos actulizar la maquina virtual y saber sobre cyber seguridad
+- Es seguro porque no permite:
+        - Leer o escribir sin permiso
+        - Desbordar la pila de ejecución
+        - Corrupción de memoria
+- **Neutro:** Con respecto al hardware, es multiplataforma
+- **Adaptable:** Tipo de datos primitivos iguales en todas las plataformas
+- **Interpretado:** Se compila y despues se interpreta
+- **Alto rendimiento** 
+- **Multi-hilo:** Se puede trabajar con varios procesos en un mismo programa JAVA 
+
+## Ideas erróneas
+- **JAVA no es una extensión de HTML**
+- **JAVA no tiene nada que ver con JavaScript ()**
+- **Todos los programas de Java se ejecutan en una pagina web (solo los applets)**
+- **JAVA es inseguro**
+- **JAVA es 100% seguro**
+
+
 
 
