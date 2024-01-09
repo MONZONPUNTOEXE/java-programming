@@ -18,13 +18,9 @@
 
 > Si esto no funciona o no los lleva a instalar JDK, hacemos los siguiente:
 
-- Vamos a google y escribimos "Visual Studio Code for java"
+- Hacemos click [en este link](https://code.visualstudio.com/docs/languages/java):
 
-- Hacemos click en el siguiente link:
-
-![](image-5.png)
-
-- En la documentacion bajamos hasta el "Coding pack", seleccionamos el Pack para Windows (Si tienes Mac seleccionamos para Mac)
+- En la documentacion bajamos hasta el "Coding Pack", seleccionamos el Pack para Windows (Si tienes Mac seleccionamos para Mac)
 
 ![Install for Win o Mac](image-6.png)
 
@@ -42,6 +38,9 @@
 > Si sigue sin funcionar, reiniciamos y volvemos a abrir el VSC
 
 
+## Que es JDK ?
+
+Se trata de un paquete de software que puede utilizar para desarrollar aplicaciones basadas en Java. El Entorno de ejecución de Java es un complemento necesario para ejecutar programas de Java. Java Development Kit es necesario para desarrollar aplicaciones de Java.
 
 ## Que es JRE ?
 
@@ -52,7 +51,8 @@ JRE = Java Runtine Enviroment (Entorno de ejecucion de Java)
     - Este caracter de Java de ser multiplataforma implica que el programa escrito en Java debe ser "compilado"
       para posteriormente sea "Interpretado" por la JRE
 
-- Que es compilar ?
+
+## Que es compilar ?
 El codigo fuente es en el cual le damos instrucciones a la maquina para que haga determinadas cosas, este lenguaje es entendido por los humanos (programadores).
 Es importante saber que las maquinas no entienden Codigo Fuente, solo codigo binario.
 El Compilador lo que hace es convertir el codigo fuente en codigo maquina (binario), de ahi la maquina entiende ese lenguaje.
@@ -72,6 +72,8 @@ A este fichero de Bytecodes se le aplica la maquina virtual de Java (JRE)
 
 ![Alt text](image-4.png)
 
+## Diferencias entre el JRE, la JVM y el JDK
+El JDK lo compila y transfiere el código de bytes al JRE. Por el contrario, el JRE contiene bibliotecas de clases, que respaldan los archivos, y la JVM. Utiliza estos componentes de software para ejecutar el código intermedio en cualquier dispositivo.
 
 # Introduccion a Java
 
@@ -114,7 +116,7 @@ Pero tenia muchas limitaciones y los programadores no lo tomaban en serio pero c
 <br>
 <br>
 
-<< [Capítulo anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capítulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
+<< [Volver al Home](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/README.md) | [Siguiente Capítulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md) >>
 
 
 
