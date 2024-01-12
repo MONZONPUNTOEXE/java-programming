@@ -141,8 +141,8 @@ public class iniciandoEnJava{ //abrimos 1er llave
 - Tenemos que saber que es lo que pasa en la RAM a la hora de programar, para que nuestro programa sea optimo, no tenga lentitud ni desborde
 ![Alt text](image-4.png)
 
-- Si nosotros hacemos zoom a nuestra RAM, si declaramos una variable de tipo **INT**, reservamos el espacio en la RAM pero no le asigna el valor.
-- Si nosotros declaramos una variable y asignamos valor, reservamos el espacio en la RAM y se le asigna el valor
+- Si nosotros hacemos zoom a nuestra RAM, si solo declaramos una variable de tipo **INT**, solo reservamos el espacio en la RAM 
+- Si nosotros declaramos una variable y asignamos valor, reservamos el espacio en la RAM y se le asigna el valor dentro de ese espacio en la RAM
 > Recordemos que **INT** es un tipo de dato que puede almacenar numeros desde -2,147,483,648 haste 2,147,483,647 y ocupan 4 bytes de espacio
 
 ![Alt text](image-5.png)
@@ -169,17 +169,17 @@ public class iniciandoEnJava{ //abrimos 1er llave
 
 ![Alt text](image-8.png)
 
-- Si utilizamos **LONG** en todas las variables, tendrimos menos espacios y estariamos aprovechando los recursos de nuestro PC
-- Esto se traduce en mas lentitud en el programa JAVA, por estar consumiendo muchos recursos de la RAM y poco rango de RAM libre para que funcionen, procesos en segundo plano, aplicaciones abiertas y etc
+- Si utilizamos **LONG** en todas las variables, tendriamos menos espacio disponible en la RAM y estariamos consumiento muchos recursos de nuestro PC
+- Esto se traduce en mas lentitud en el programa JAVA por estar consumiendo muchos recursos de la RAM y poco rango de RAM libre para que funcionen, procesos en segundo plano, aplicaciones abiertas y etc
 
 ![Alt text](image-9.png)
 
 - Como dijimos anteriormente las computadoras de hoy en dia son potentes, podemos utilizar
 
-- int: Para datos enteros, a no ser que vayamos a representar numeros superiores a 2,147,483,647 o inferior -2,147,483,648
-- double: Para datos con numeros decimales
-- char: Para datos de tipo char
-- boolean: Para datos logicos
+    - **int**: Para datos enteros, a no ser que vayamos a representar numeros superiores a 2,147,483,647 o inferior -2,147,483,648
+    - **double**: Para datos con numeros decimales
+    - **char**: Para datos de tipo char
+    - **boolean**: Para datos logicos
 
 
 
