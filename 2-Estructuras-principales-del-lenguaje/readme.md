@@ -136,9 +136,53 @@ public class iniciandoEnJava{ //abrimos 1er llave
 
 - Todas las variables se alojan en la RAM. 
 - La RAM es una **memoria volatil**, es decir, cuando se apaga el ordenador la ram queda vacía
-- Cuando iniciamos el ordenador, utiliza la RAM para procesos internos, los programas van ocupando un poco de espacio en la RAM para los programas que se van ejecutando.
-- Nuestro programa (realizado con JAVA) no sabe cuanto RAM hay disponible en ese momento
+- Cuando iniciamos el ordenador, utiliza la RAM para procesos internos, los programas van ocupando un poco de espacio en la RAM a medida que vamos abriendo programas.
+- Si estamos programando no sabemos cuanta memoria disponible tenemos, con los programas que tenemos en segundo plano y los procesos interno del SO
+- Tenemos que saber que es lo que pasa en la RAM a la hora de programar, para que nuestro programa sea optimo, no tenga lentitud ni desborde
 ![Alt text](image-4.png)
+
+- Si nosotros hacemos zoom a nuestra RAM, si declaramos una variable de tipo **INT**, reservamos el espacio en la RAM pero no le asigna el valor.
+- Si nosotros declaramos una variable y asignamos valor, reservamos el espacio en la RAM y se le asigna el valor
+> Recordemos que **INT** es un tipo de dato que puede almacenar numeros desde -2,147,483,648 haste 2,147,483,647 y ocupan 4 bytes de espacio
+
+![Alt text](image-5.png)
+
+- Si nosotros declaramos una variable de tipo **LONG** va a ocupar un espacio mucho mayor a diferencia al **INT**
+
+![](image-6.png)
+
+- Vemos que se utiliza demasiado espacio para un numero que no lo necesita, esto quiere decir que no estariamos aprovechando los recursos adecuadamente.
+- En este caso podriamos usar el tipo de dato **byte** 
+
+```java
+    byte num = 5;
+```
+- A la hora de programar tenemos que ser estrictos con el tamaño de los datos, pero como hoy en dia las computadoras son potentes no tenemos que preocuparnos por ello
+- Cuando queremos declarar una variable y va a tener como dato un **5**, podemos usar por convencion el **INT**, es verdad que ocupa mas espacio pero el computador no lo va a notar si tu programa no es muy complejo
+> Esto no quiere decir que no podamos usar el byte o el short si lo quisieramos
+
+- Si nosotros tenemos un programa que tiene 2mil variables de datos enteros de tipo **INT**, estariamos utilizando aprox. esta cantidad de RAM:
+
+![Alt text](image-7.png)
+
+- Nos quedara todo el espacio que esta en blanco para poder utilizar mas procesos 
+
+![Alt text](image-8.png)
+
+- Si utilizamos **LONG** en todas las variables, tendrimos menos espacios y estariamos aprovechando los recursos de nuestro PC
+- Esto se traduce en mas lentitud en el programa JAVA, por estar consumiendo muchos recursos de la RAM y poco rango de RAM libre para que funcionen, procesos en segundo plano, aplicaciones abiertas y etc
+
+![Alt text](image-9.png)
+
+- Como dijimos anteriormente las computadoras de hoy en dia son potentes, podemos utilizar
+
+- int: Para datos enteros, a no ser que vayamos a representar numeros superiores a 2,147,483,647 o inferior -2,147,483,648
+- double: Para datos con numeros decimales
+- char: Para datos de tipo char
+- boolean: Para datos logicos
+
+
+
 
 
 
