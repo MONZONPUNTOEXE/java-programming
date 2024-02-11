@@ -1,8 +1,9 @@
 # Curso de JAVA
 
-## Entornos de Desarrollo usaremos Visual Studio Code
+## Entornos de Desarrollo 
+### Visual Studio Code (No recomendable)
 
-- El que vamos a utilizar es Visual Estudio Code como IDE
+- Podemos utilizar el Visual Estudio Code como IDE
 - Para su instalacion debemos de instalar las siguientes extensiones
 
 # Extensiones
@@ -36,6 +37,15 @@
 
 - Y listo, si aun no instalamos las extensiones las instalamos de nuevo.
 > Si sigue sin funcionar, reiniciamos y volvemos a abrir el VSC
+
+
+### NetBeans (Recomendable)
+
+- Para instalar debemos saber si nuestra computadora es de x64 bits o x32 bits
+- Descargamos el JDK (Java Development Kit) (Incluye el JRE) [en este link](https://www.oracle.com/java/technologies/downloads/#jdk21-windows) (En este caso yo tengo la version 17) 
+- Descarmamos NetBeans (IDE) [en este link](https://netbeans.apache.org/front/main/download/index.html)
+
+
 
 
 ## Que es JDK ?
@@ -112,6 +122,15 @@ Pero tenia muchas limitaciones y los programadores no lo tomaban en serio pero c
 - **Todos los programas de Java se ejecutan en una pagina web (solo los applets)**
 - **JAVA es inseguro**
 - **JAVA es 100% seguro**
+
+## Versiones de JAVA
+
+- J2SE (Java Standard Edtition)
+> Nos permite hacer desarrollo de aplicaciones con funcionalidades sencillas de escritorio como manejo de clases, colecciones, entrada/salida, acceso a base de datos, manejo de sockets, hilos de ejecucion, etc.
+
+- JSE (Java Enterprise Edition):
+> Esta mas enfocado a lo empresarial, de gran envergadura. Contempla ambientes Web, servidores. Las aplicaciones incluidas en esta area son Servlets, JSE. Consumir APIS de otros espacios y etc
+
 <br>
 <br>
 <br>
