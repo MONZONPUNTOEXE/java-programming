@@ -192,4 +192,4 @@ public class iniciandoEnJava{ //abrimos 1er llave
 <br>
 <br>
 
-<< [Capítulo Anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md) | [Siguiente Capítulo](.) >>
+<< [Capítulo Anterior](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md) | [Siguiente Capítulo](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/3-Iniciando-a-programar/readme.md) >>
