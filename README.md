@@ -12,6 +12,7 @@ Contenidos:
 
 - [Introduccion a Java](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/1-Introduccion-a-java/readme.md)
 - [Estructuras principales del lenguaje](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md)
+- [Iniciando a programar](https://github.com/MONZONPUNTOEXE/java-programming/blob/main/2-Estructuras-principales-del-lenguaje/readme.md)
 - Objetos y clases
 - Herencia
 - Clases internas e interfaces
